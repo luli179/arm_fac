@@ -4,8 +4,7 @@
     .comm n,4   @n的阶乘
     .text
     .align 2
-    
-    .align
+
     .section .rodata
     .align 2
 _str0:
